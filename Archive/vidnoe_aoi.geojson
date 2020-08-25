@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "vidnoe_aoi_4326",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 37.65055, 55.561411 ], [ 37.71305, 55.561411 ], [ 37.71305, 55.519745 ], [ 37.65055, 55.519745 ], [ 37.65055, 55.561411 ] ] ] } }
-]
-}
