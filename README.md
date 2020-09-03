@@ -39,7 +39,7 @@
 ![Наложение масок: автоматическая обработка VS картографическая обработка](https://i.ibb.co/k5tbH1D/vidnoe-masks.png)
 <div style="text-align: center">Наложение масок: автоматическая обработка VS доработка картографами</div>
 
-[Статистика по количеству объектов по классам - автомат Vs картографы](https://github.com/Geoalert/vidnoe_benchmark/blob/master/docs/Compare%20before_vs_after.pdf)
+[Статистика по количеству объектов по классам - автомат Vs картографы](https://github.com/Geoalert/vidnoe_benchmark/blob/master/docs/Compare%20auto_vs_cartographer.pdf)
 
 
 По автоматическому геокодированию проводилось сравнение результатов на основе различных источников.
