@@ -31,13 +31,15 @@
 Для оценки качества контуров зданий использовались стандартная метрика F1 сравнения двух масок, а также "Jaccard score" сравнения векторных контуров c порогом Inersection over Union > 0.5. Для оценки классификации по типам зданий - среднее F1 по маскам каждого класса. 
 
 
-| Localization score | Classification score| Jaccard score, IOU > 0.5 |
+| Localization score | Jaccard score| Classification score |
 | --- | --- | --- |
-| 0.989| 0.906 | 0.934 |
+| 0.989| 0.934 | 0.906 |
 
 
 ![Наложение масок: автоматическая обработка VS картографическая обработка](https://i.ibb.co/k5tbH1D/vidnoe-masks.png)
 <div style="text-align: center">Наложение масок: автоматическая обработка VS доработка картографами</div>
+
+[Статистика по количеству объектов по классам - автомат Vs картографы](https://github.com/Geoalert/vidnoe_benchmark/blob/master/docs/Compare%20before_vs_after.pdf)
 
 
 По автоматическому геокодированию проводилось сравнение результатов на основе различных источников.
